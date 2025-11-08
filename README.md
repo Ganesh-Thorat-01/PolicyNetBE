@@ -109,7 +109,7 @@ flowchart TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/PolicyNetBE.git
+git clone https://github.com/Ganesh-Thorat-01/PolicyNetBE.git
 cd PolicyNetBE
 ```
 
