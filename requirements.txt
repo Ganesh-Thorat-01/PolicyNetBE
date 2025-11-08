@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-multipart
+langchain-core
+langgraph
+python-dotenv
+langchain
+langchain-openai
+google-generativeai
+langchain-google-genai
+beautifulsoup4
+aiolimiter
+pandas
+aiohttp
